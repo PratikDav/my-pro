@@ -1,0 +1,80 @@
+body{
+    background-color: #f3f5f9;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width:95%;
+  
+    left: 50px;
+}
+.banner{
+    
+    background-image: url("image/banner.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+section{
+    height: 500px;
+}
+#h3-fonts{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+div{
+   
+}
+.Fb-link{
+    text-decoration: none;
+    background-color:#007acc ;
+    color: white;
+    cursor: pointer;
+    padding: 3px 20px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+.Fb-link-one{
+    text-decoration: none;
+    background-color:#007acc ;
+    color: white;
+    cursor: pointer;
+    padding: 3px 20px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+.second-width{
+    width: 40%;
+    float: left;
+    margin: 1%;
+    padding-right: 5%;
+    
+    
+}
+.second-width img{
+    width: 90%;
+    margin-top: -24%;
+    
+}
+.para2{
+ 
+    right: 100px;
+}
+.h-s{
+    color: orangered;
+}
+.Full-div2{
+    margin-top: 16%;
+}
